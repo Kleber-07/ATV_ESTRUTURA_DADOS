@@ -1,0 +1,22 @@
+NumeroInteiro x = new NumeroInteiro(7);
+NumeroInteiro y = new NumeroInteiro();
+NumeroInteiro z;
+z = x.soma(y);
+----------------------------------------
+criar um tem para cont
+--------------------
+JOptionPane.showMessageDialog(null, x.getNextPrimo());
+--------------------------------------------------------
+int tam = 5;
+for (int i = 0; 1 <tam; i++){
+	for (int j = 0; j< tam; j++) {
+	System.out.print("*");
+	
+		}
+	System.out.println("");}
+
+
+****
+*  *
+*  *
+****
